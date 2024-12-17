@@ -4,4 +4,4 @@ def celius_to_faranheit(celsius):
 
 temp_celsius = 25
 temp_faranhiet = celius_to_faranheit(temp_celsius)
-print(f"{temp_celsius} is equal to {temp_faranhiet} faranhiet!")
+print(f"{temp_celsius} celsius is equal to {temp_faranhiet} faranhiet!")
